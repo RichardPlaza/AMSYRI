@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Richard Plaza <r.plaza@kambli.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Language: de_DE\n"
+
+# controller.php:14
+# blocks/login_block/controller.php:19
+msgid "Login Block"
+msgstr "Login Block"
+
+# controller.php:18
+# blocks/login_block/controller.php:18
+msgid "Add a login block to your page."
+msgstr "Füge einen Login Block in deine Seite ein."
+
+# blocks/login_block/form.php:4
+msgid "Title"
+msgstr "Titel"
+
+# blocks/login_block/form.php:9
+msgid "Login button text"
+msgstr "Login Button Text"
